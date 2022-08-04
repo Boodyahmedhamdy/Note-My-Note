@@ -3,3 +3,6 @@
 
 # .iml file also created by intellj
 usingKotlin.iml
+
+# out folder created by compiler
+out/

@@ -1,0 +1,5 @@
+# ignore .idea/ folder created by intellj
+.idea/
+
+# .iml file also created by intellj
+usingKotlin.iml

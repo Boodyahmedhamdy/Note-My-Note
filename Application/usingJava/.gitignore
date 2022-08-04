@@ -1,0 +1,5 @@
+# ignore .idea/ folder created by intellj
+.idea/
+
+# ignore file created by intellj 
+usingJava.iml
